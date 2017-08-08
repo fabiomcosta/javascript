@@ -24,18 +24,16 @@
     "eslint-godaddy": "bin/eslint-godaddy"
   },
   "peerDependencies": {
-    "eslint": "^4.3.0",
-    "eslint-plugin-json": "^1.2.0",
-    "eslint-plugin-mocha": "^4.8.0"
+    "eslint": "^4.3.0"
   },
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.3.0",
-    "eslint-find-rules": "^3.1.1",
-    "eslint-plugin-json": "^1.2.0",
-    "eslint-plugin-mocha": "^4.8.0"
+    "eslint-find-rules": "^3.1.1"
   },
   "dependencies": {
-    "which": "^1.2.12"
+    "which": "^1.2.12",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-mocha": "^4.8.0"
   }
 }
